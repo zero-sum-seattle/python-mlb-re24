@@ -1,6 +1,6 @@
 <div align="center">
 
-# PMSA-advanced-stats
+# Python MLB RE24
 
 **Advanced stats library Utilizing Python-mlb-stats-api for the MLB's Official Stats API**
 
